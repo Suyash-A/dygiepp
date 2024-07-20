@@ -8,3 +8,5 @@ pretrained/*
 predictions/*
 **/stanford*/*
 scratch*
+# Added by Suyash
+inference.py
